@@ -108,7 +108,6 @@ a:focus{
 }
 .section-title{
 	text-align:center;
-	text-transform:uppercase;
 	font-weight:300;
 	font-size:60px;
 }
@@ -243,13 +242,13 @@ a:focus{
 .social-btn-container .social-btn-box a{
 	color:#fff;
 	font-size:50px;
-	line-height:120px;
+	line-height:150px;
 	display:inline-block;
-	width:120px;
-	height:120px;
+	width:150px;
+	height:150px;
 	position:relative;
-	top:-10px;
-	left:-10px;
+	top:-24px;
+	left:-25px;
 
 	-webkit-transform:rotate(-45deg);
 	   -moz-transform:rotate(-45deg);
@@ -549,7 +548,6 @@ a:focus{
 
 .time-name{
 	font-size:15px;
-	text-transform:uppercase;
 	font-weight:700;
 }
 .time-until{
@@ -562,7 +560,6 @@ a:focus{
 	line-height:40px;
 	display:inline-block;
 	background-color:#3498db;
-	text-transform:uppercase;
 	padding:0px 25px;
 }
 /* 4 - Page Top Section End 
@@ -588,7 +585,6 @@ a:focus{
 
 .team-container figcaption{
 	text-align:center;
-	text-transform:uppercase;
 	width:100%;
 	height:110px;
 	border:1px solid #fff;
