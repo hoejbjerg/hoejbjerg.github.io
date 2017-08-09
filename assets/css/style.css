@@ -75,7 +75,7 @@ a:focus{
 	background-size:cover;
 }
 .pattern{
-	background:rgba(0,0,0,.3) url(../images/pattern.png);
+	background:rgba(0,0,0,.0) url(../images/pattern.png);
 	padding-top:100px;
 }
 .container{
